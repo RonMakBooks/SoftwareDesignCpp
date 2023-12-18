@@ -7,7 +7,7 @@ book use the 2017 version of C++, although most can also work with earler versio
 of C++.
 
 Unzip each program to compile and run. For example, the following two commands 
-specify C++ 2017 and will compile, link, and run program 2.1 in a Linux terminal 
+specify C++17 and will compile, link, and run program 2.1 in a Linux terminal 
 window using the GNU C++ compiler or in a MacOS terminal window using the 
 Apple Clang C++ compiler:
 
